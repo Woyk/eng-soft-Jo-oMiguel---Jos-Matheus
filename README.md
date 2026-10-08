@@ -1,2 +1,5 @@
-# eng-soft-JoaoMiguel---JoseMatheus
-atividade de faculdade de engenharia de software
+# eng-soft-JoãoMiguel---JoseMatheus
+Dupla:
+João Miguel Machado Salgueiro
+José Matheus Alves Vital
+atividade de faculdade de Engenharia de Software
